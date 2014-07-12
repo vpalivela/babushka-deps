@@ -5,5 +5,6 @@ dep 'bootstrap' do
     'homebrew',
     'rvm',
     'cocoapods.gem',
-    "git.bin"
+    'git.bin',
+    'git autocompletion'
 end
