@@ -16,3 +16,4 @@ end
 
 dep 'Atom.app' do
   source 'https://atom.io/download/mac'
+end
